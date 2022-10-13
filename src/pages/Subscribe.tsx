@@ -26,7 +26,7 @@ export function Subscribe(){
         setName('');
         setEmail('');
 
-        navigate('/event');
+        navigate('/event/lesson/abertura-do-evento-astra-revolution');
     }
 
     return(
